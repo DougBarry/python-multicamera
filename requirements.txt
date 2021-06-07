@@ -1,0 +1,12 @@
+numpy==1.19.5
+opencv-python==4.5.1.48
+Pillow==8.1.0
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+pyperclip==1.8.1
+PyRect==0.1.4
+PyScreeze==0.1.26
+python3-xlib==0.15
+PyTweening==1.0.3
+six==1.15.0
+xlib==0.21
